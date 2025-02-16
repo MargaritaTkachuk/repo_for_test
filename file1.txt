@@ -3,3 +3,4 @@ change2
 change1 on feature-x
 change2 on feature-x
 change3 on feature-x
+change4 on feature-x from remote
