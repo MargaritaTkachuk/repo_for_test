@@ -5,3 +5,4 @@ change2 on feature-x
 change3 on feature-x
 change4 on feature-x from remote
 added branch hotfix
+hotfix1
